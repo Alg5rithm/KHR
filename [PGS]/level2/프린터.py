@@ -25,3 +25,4 @@ def solution(priorities, location):
             location -= 1
     
     return answer
+ 
